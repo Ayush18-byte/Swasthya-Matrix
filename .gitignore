@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+output_sink/
+**/.crc
+*.crc
+.env
